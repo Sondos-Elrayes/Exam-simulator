@@ -1,0 +1,366 @@
+# depslib dependency file v1.0
+1705339599 source:d:\iti\cpp project\exam\sqlite-amalgamation-3450000\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<Windows.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1745157886 source:d:\iti\cpp project\exam\examsimulator\database.cpp
+	"database.h"
+	<iostream>
+
+1745158027 d:\iti\cpp project\exam\examsimulator\database.h
+	<sqlite3.h>
+	<string>
+
+1705339599 d:\iti\cpp project\exam\examsimulator\sqlite3.h
+	<stdarg.h>
+
+1745157774 source:d:\iti\cpp project\exam\examsimulator\user.cpp
+	"user.h"
+	<iostream>
+	<sqlite3.h>
+
+1745157774 d:\iti\cpp project\exam\examsimulator\user.h
+	<string>
+
+1745199827 source:d:\iti\cpp project\exam\examsimulator\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	"user.h"
+	<sqlite3.h>
+	"database.h"
+	"exam.h"
+	"result.h"
+
+1745212202 source:d:\iti\cpp project\exam\examsimulator\exam.cpp
+	"exam.h"
+	<iostream>
+	<sqlite3.h>
+	<vector>
+	<chrono>
+	<thread>
+	<iomanip>
+	<random>
+	<algorithm>
+	<map>
+	<set>
+	<tuple>
+	<future>
+	<atomic>
+	<string>
+	<windows.h>
+	<unistd.h>
+	<limits>
+	<iostream>
+	<iomanip>
+	<thread>
+	<chrono>
+	<map>
+	<tuple>
+	<atomic>
+	<string>
+
+1745199866 d:\iti\cpp project\exam\examsimulator\exam.h
+	<string>
+
+1745197542 source:d:\iti\cpp project\exam\examsimulator\result.cpp
+	"result.h"
+	<iostream>
+	<iomanip>
+	<sqlite3.h>
+	<string>
+
+1745185997 d:\iti\cpp project\exam\examsimulator\result.h
+	<string>
+
+1745157886 source:d:\projects\examsimulator\database.cpp
+	"database.h"
+	<iostream>
+
+1745158027 d:\projects\examsimulator\database.h
+	<sqlite3.h>
+	<string>
+
+1745199827 source:d:\projects\examsimulator\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	"user.h"
+	<sqlite3.h>
+	"database.h"
+	"exam.h"
+	"result.h"
+
+1745157774 d:\projects\examsimulator\user.h
+	<string>
+
+1745199866 d:\projects\examsimulator\exam.h
+	<string>
+
+1745185997 d:\projects\examsimulator\result.h
+	<string>
+
+1705339599 source:d:\projects\examsimulator\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<Windows.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1705339599 d:\projects\examsimulator\\sqlite3.h
+	<stdarg.h>
+
+1745502022 source:d:\examsimulator\exam.cpp
+	"exam.h"
+	<iostream>
+	<sqlite3.h>
+	<vector>
+	<chrono>
+	<thread>
+	<iomanip>
+	<random>
+	<algorithm>
+	<map>
+	<set>
+	<tuple>
+	<future>
+	<atomic>
+	<string>
+	<windows.h>
+	<unistd.h>
+	<limits>
+	<iostream>
+	<iomanip>
+	<thread>
+	<chrono>
+	<map>
+	<tuple>
+	<atomic>
+	<string>
+
+1745199866 d:\examsimulator\exam.h
+	<string>
+
+1745197542 source:d:\examsimulator\result.cpp
+	"result.h"
+	<iostream>
+	<iomanip>
+	<sqlite3.h>
+	<string>
+
+1745185997 d:\examsimulator\result.h
+	<string>
+
+1705339599 source:d:\examsimulator\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<Windows.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1745157774 source:d:\examsimulator\user.cpp
+	"user.h"
+	<iostream>
+	<sqlite3.h>
+
+1745157774 d:\examsimulator\user.h
+	<string>
+
+1705339599 d:\examsimulator\\sqlite3.h
+	<stdarg.h>
+
+1745157886 source:d:\examsimulator\database.cpp
+	"database.h"
+	<iostream>
+
+1745158027 d:\examsimulator\database.h
+	<sqlite3.h>
+	<string>
+
+1745480593 source:d:\examsimulator\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	"user.h"
+	<sqlite3.h>
+	"database.h"
+	"exam.h"
+	"result.h"
+
