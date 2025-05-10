@@ -4,7 +4,7 @@ An Exam Simulator System designed using C++ (Code::Blocks) and SQLite to replica
 
 ## 📌 Features
 
-🛡️ User Authentication: Secure login system for exam participants.
+🛡️  User Authentication: Secure login system for exam participants.
 
 📅 Exam Reservation & Scheduling: Reserve and schedule exams in advance.
 
@@ -23,7 +23,8 @@ An Exam Simulator System designed using C++ (Code::Blocks) and SQLite to replica
 🚨 Robust Error Handling: Handles invalid inputs and application errors gracefully.
 
 ### ER Diagram 
-![WhatsApp Image 2025-04-22 at 23 28 52_cb15d863](https://github.com/user-attachments/assets/49904f6b-989d-4af0-8966-3109827e0d8e)
+
+<img src="https://github.com/user-attachments/assets/49904f6b-989d-4af0-8966-3109827e0d8e" height="500"/>
 
 ### Explainer video 
 https://github.com/user-attachments/assets/6bc9d398-5b81-46f3-b9be-43082915f8bb
