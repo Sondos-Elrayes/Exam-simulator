@@ -31,6 +31,6 @@ https://github.com/user-attachments/assets/9500a0b4-93da-44a1-8809-91e505f68523
 
 ### ER Diagram 
 
-<img src="https://github.com/user-attachments/assets/49904f6b-989d-4af0-8966-3109827e0d8e" height="700"/>
+![image](https://github.com/user-attachments/assets/e3a1d1b0-b325-49f5-8c15-b5772236e28a)
 
 
