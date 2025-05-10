@@ -22,11 +22,15 @@ An Exam Simulator System designed using C++ (Code::Blocks) and SQLite to replica
 
 🚨 Robust Error Handling: Handles invalid inputs and application errors gracefully.
 
-### ER Diagram 
-
-<img src="https://github.com/user-attachments/assets/49904f6b-989d-4af0-8966-3109827e0d8e" height="500"/>
 
 ### Explainer video 
-https://github.com/user-attachments/assets/6bc9d398-5b81-46f3-b9be-43082915f8bb
+
+
+https://github.com/user-attachments/assets/9500a0b4-93da-44a1-8809-91e505f68523
+
+
+### ER Diagram 
+
+<img src="https://github.com/user-attachments/assets/49904f6b-989d-4af0-8966-3109827e0d8e" height="700"/>
 
 
